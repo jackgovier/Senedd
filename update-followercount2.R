@@ -4,11 +4,11 @@ library(lubridate)
 library(ggrepel)
 
 
-appname <- "CBBSentiment"
+appname <- ""
 # api key (replace the following sample with your key)
-key <- "AeU8ZvDs6kIBq3gWOVakD9rGJ"
+key <- ""
 # api secret (replace the following with your secret)
-secret <- "2MjblAqkMLB02zIuMll1MnSwgfjh78CPehOzI7U8TOFHpZqDfX"
+secret <- ""
 
 twitter_token <- create_token(
   app = appname,
